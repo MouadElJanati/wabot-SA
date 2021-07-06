@@ -65,7 +65,7 @@ you've just cloned!!!
 ```
 
 </p> 
- #sosial media
+ #contact us 
 
 
 * [`WhatsApp group `](https://wa.me/message/N2MKXYOCTXS6K1)
