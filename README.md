@@ -1,75 +1,94 @@
-# wabot-SA
-Only Termux
-<h1 align="center">wabot-SA<img src="https://user-images.githubusercontent.com/sunaif-adkar" width="40px" alt="hi"><br>sunaif Was Hare!</h1>
 
+
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="190" height="200"/>
+  <p align="center">
+<a href="#"><img title="Sabots" src="https://img.shields.io/badge/SaBots-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/sunaif-adkar"><img title="Author" src="https://img.shields.io/badge/sunaif-adkar/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
 <p align="center">
-<img src="https://ibb.co/r5wpr0n" width="100%" alt="API Giphy logo"/>
+Project created by <a href="https://github.com/sunaif-adkar">Sunaif-adkar</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
 
-- 🌱 I’m currently learning **nothing**.
+----
+## ⚠️ TERMUX ONLY⚠️
+<div align="center">
 
-- 👀 I m currently focusing on **JavaScript**.
-
-
+  <p align="center">
+  <a href="httsp://githun.com/sunaif-adkar">
+    <img src="https://img.shields.io/github/repo-size/sunaif-adkar/wabot-SA?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
-  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
-  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+<a href="https://github.com/sunaif-adkar/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaif-adkar?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar/sunaif-adkar/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sunaif-adkar/wabot-SA?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar/sunaif-adkar/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sunaif-adkar/wabot-SA?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar/sunaif-adkar/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sunaif-adkar/wabot-SA?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sunaif-adkar/wabot-SA"><img src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/message/N2MKXYOCTXS6K1)
+  <div align="center">
+          
+## Setup
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sunaif-adkar/wabot-SA"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunaif-adkar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunaif-adkar&theme=onedark" /></a>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunaif-adkar" />
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA"><img src="https://img.shields.io/badge/YouTube-SA OFFICIALL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
-
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!!
-
-```bash
-> pkg update && pkg upgrade 
-> pkg install nodejs
-> pkg install tesseract 
-> git clone https://github.com/fauzan404/bot-gembul
-> cd bot-gembul
-> bash install.sh
+## TERMUX ONLY ❌
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/sunaif-adkar/sunaif-adkar.git
+$ cd sunaif-adkar
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/sunaif-adkar/sunaif-adkar.git
+$ cd sunaif-adkar
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 ```
 
-### Usage
-```bash
-> npm start
+
+## ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, SaBots executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-</p> 
- #contact us 
+## Developers
+  <div align="center">
+    
+  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
+----|----|----
+[sunaif-adkar](https://github.com/sunaif-adkar)  | [S46@$u.#404](https://wa.me/message/N2MKXYOCTXS6K1) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+    
 
 
-* [`WhatsApp group `](https://wa.me/message/N2MKXYOCTXS6K1)
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-* [`Bot by `](https://t.me/sunaif_adkar)
-
-
+## Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
