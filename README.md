@@ -31,19 +31,19 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/sunaif-adkar/wabot-SA"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunaif-adkar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancabot&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunaif-adkar&theme=onedark" /></a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mancabot" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunaif-adkar" />
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SofyanAMV09-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
+  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SA OFFICIALL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 ## Install the dependencies:
@@ -68,8 +68,8 @@ you've just cloned!!!
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/916909137213)
+* [`WhatsApp group `](https://wa.me/message/N2MKXYOCTXS6K1)
 
-* [`Bot Gembul `](https://wa.me/916909137213)
+* [`Bot by `](https://t.me/sunaif_adkar)
 
 
