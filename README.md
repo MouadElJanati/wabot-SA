@@ -43,7 +43,7 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SA OFFICIALL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA" /></a>
+  <a href="https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA"><img src="https://img.shields.io/badge/YouTube-SA OFFICIALL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 ## Install the dependencies:
