@@ -51,7 +51,7 @@ const vcard = 'BEGIN:VCARD\n'  // Gak Usah Di Ganti
             + 'VERSION:3.0\n'  // Gak Usah DiGanti
             + 'FN:owner of SA BOT\n' //ganti nama bot lu
             + 'ORG: xeon;\n' //Ganti Jadi Nama Lu
-            + 'TEL;type=CELL;type=VOICE;waid=https://wa.me/message/N2MKXYOCTXS6K1\n'  //ganti nomor lu! 
+            + 'TEL;type=CELL;type=VOICE;waid=https://wa.me/13478082485\n'  //ganti nomor lu! 
             + 'END:VCARD'
 prefix = '#' // Ganti Aja Terserah Lu 
 blocked = []   //Jangan Ganti
@@ -60,8 +60,8 @@ memberlimit = 1
 cr = '*SGFuc0JPVA==*' 
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["917338096026@s.whatsapp.net"]   // Ganti Nomor Lu
-const pacarNumber = ["https://wa.me/message/N2MKXYOCTXS6K1"]  // Ganti Jadi Nomor Bot Lu
+const ownerNumber = ["212770565333@s.whatsapp.net"]   // Ganti Nomor Lu
+const pacarNumber = ["https://wa.me/13478082485"]  // Ganti Jadi Nomor Bot Lu
 /************************************/
 
        
